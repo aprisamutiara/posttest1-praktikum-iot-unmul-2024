@@ -31,3 +31,6 @@ Komponen yang digunakan:
 
 3. Our Schematic
    ![our schematic](https://github.com/aprisamutiara/posttest1-praktikum-iot-unmul-2024/assets/123526722/cff3689f-6b86-437f-818b-93912b6222b0)
+
+LINK VIDEO YOUTUBE
+https://youtu.be/5Ip0LQQnweA
