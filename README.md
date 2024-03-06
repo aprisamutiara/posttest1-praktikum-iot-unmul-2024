@@ -1,8 +1,8 @@
 # posttest1-praktikum-iot-unmul-2024
 
 ## Anggota Kelompok 
-Aprisa Idma Mutiara (2209106001)
-Narupa Rangga Goroguta (2209106004)
+1. Aprisa Idma Mutiara (2209106001)
+2. Narupa Rangga Goroguta (2209106004)
 
 # Monitor LED 
 Deskripsi: 
